@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES2016",
-    "module": "ESNext",
+    "target": "TS.JSON",
+    "module": "Next///tsconfig.json",
   }
 }
